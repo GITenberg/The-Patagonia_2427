@@ -1,5 +1,8 @@
 _repo: The-Patagonia_2427
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -13,6 +16,8 @@ description: The Patagonia was slow, but spacious and comfortable, and there was
   the multitudinous swish, in her wake, as of a thousand proper petticoats. It was
   as if she wished not to present herself in port with the splashed eagerness of a
   young creature.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2427#The-Patagonia
 gutenberg_issued: '2000-12-01'
 gutenberg_type: Text
 identifiers:
